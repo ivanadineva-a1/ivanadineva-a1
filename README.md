@@ -3,7 +3,7 @@
 
 # Hi, I'm Ivana Dineva 👋
 
-### Observability Engineer @ A1 Macedonia
+### Observability Engineer @ A1 Telekom Austria AG
 
 **Frontend Engineering · Observability · Cloud Technologies**
 
